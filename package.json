@@ -1,0 +1,14 @@
+{
+  "name": "agendash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "agendash"
+  },
+  "author": "Kukuh Yoniatmoko",
+  "license": "MIT",
+  "dependencies": {
+    "agendash": "^4.0.0"
+  }
+}
